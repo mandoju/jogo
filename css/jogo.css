@@ -1,0 +1,29 @@
+td {
+    border-style: solid;
+    border-width: 1px;
+    border-color: black;
+
+    font-size: 5em;
+    background-color: white;
+    min-width: 75px;
+
+
+
+    -webkit-touch-callout: none; /* iOS Safari */
+    -webkit-user-select: none;   /* Chrome/Safari/Opera */
+    -khtml-user-select: none;    /* Konqueror */
+    -moz-user-select: none;      /* Firefox */
+    -ms-user-select: none;       /* Internet Explorer/Edge */
+    user-select: none;           /* Non-prefixed version, currently
+                                  not supported by any browser */
+}
+
+
+
+table{
+    border-style: solid;
+    border-width: 50px;
+    border-color: grey;
+}
+
+
